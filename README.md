@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kodekent
-- 👀 I’m interested in Groovy, Grails, Python
-- 🌱 I’m currently learning Javascript, Python and Rust
+- 👀 I’m interested in Groovy, Grails, Go, Python
+- 🌱 I’m currently learning Go, Javascript, Python and Rust
 - 💞️ I’m looking to collaborate on ... (not something at present)
 - 📫 How to reach me - @kodekent on Twitter and at kentdamgaard.dk using my username.
 
