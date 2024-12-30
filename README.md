@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kodekent
-- 👀 I’m interested in Java, Spring, Groovy, Python
-- 🌱 I’m currently learning Spring Boot, Python and Image processing
+- 👀 I’m interested in Java, Spring, Groovy, Python and Javascript
+- 🌱 I’m currently learning Spring Boot, Python and Databricks
 - 💞️ I’m looking to collaborate on ... (not something at present)
 - 📫 How to reach me - https://www.linkedin.com/in/kentdamgaard/ and at kentdamgaard.dk using my username.
 
